@@ -2,6 +2,10 @@
 
 > *已深度思考100s。*
 
+<p align="center">
+  <img src="../images/THIN-K.png" alt="THIN-K · 思考者" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`HHL-HMH-MLH-MHM-LHH`**
 
 ## 一句话解读

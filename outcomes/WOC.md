@@ -2,6 +2,10 @@
 
 > *卧槽，我怎么是这个人格？*
 
+<p align="center">
+  <img src="../images/WOC.png" alt="WOC! · 握草人" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`HHL-HMH-MMH-HHM-LHH`**
 
 ## 一句话解读

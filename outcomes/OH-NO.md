@@ -2,6 +2,10 @@
 
 > *哦不！我怎么会是这个人格？！*
 
+<p align="center">
+  <img src="../images/OH-NO.png" alt="OH-NO · 哦不人" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`HHL-LMH-LHH-HHM-LHL`**
 
 ## 一句话解读

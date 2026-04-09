@@ -2,6 +2,10 @@
 
 > *方向盘给我，我来开。*
 
+<p align="center">
+  <img src="../images/BOSS.png" alt="BOSS · 领导者" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`HHH-HMH-MMH-HHH-LHL`**
 
 ## 一句话解读

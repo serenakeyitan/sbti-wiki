@@ -2,6 +2,10 @@
 
 > *人生是个副本，而我只是一只吗喽。*
 
+<p align="center">
+  <img src="../images/MALO.png" alt="MALO · 吗喽" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`MLH-MHM-MLH-MLH-LMH`**
 
 ## 一句话解读

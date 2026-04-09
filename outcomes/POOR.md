@@ -2,6 +2,10 @@
 
 > *我穷，但我很专。*
 
+<p align="center">
+  <img src="../images/POOR.png" alt="POOR · 贫困者" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`HHL-MLH-LMH-HHH-LHL`**
 
 ## 一句话解读

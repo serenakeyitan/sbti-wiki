@@ -2,6 +2,10 @@
 
 > *我哭了，我怎么会是孤儿？*
 
+<p align="center">
+  <img src="../images/SOLO.png" alt="SOLO · 孤儿" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`LML-LLH-LHL-LML-LHM`**
 
 ## 一句话解读

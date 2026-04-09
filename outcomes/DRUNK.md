@@ -2,6 +2,10 @@
 
 > *烈酒烧喉，不得不醉。*
 
+<p align="center">
+  <img src="../images/DRUNK.png" alt="DRUNK · 酒鬼" width="360">
+</p>
+
 **类别：特殊人格**
 
 > **触发条件**：第二道饮酒题 `drink_gate_q2` 选 "我习惯将白酒灌在保温杯，当白开水喝，酒精令我信服"。

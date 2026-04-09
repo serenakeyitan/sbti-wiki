@@ -2,6 +2,10 @@
 
 > *操！这是什么人格？*
 
+<p align="center">
+  <img src="../images/FUCK.png" alt="FUCK · 草者" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`MLL-LHL-LLM-MLL-HLH`**
 
 ## 一句话解读

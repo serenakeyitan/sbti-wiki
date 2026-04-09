@@ -2,6 +2,10 @@
 
 > *等着我屌丝逆袭。*
 
+<p align="center">
+  <img src="../images/Dior-s.jpg" alt="Dior-s · 屌丝" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`MHM-MMH-MHM-HMH-LHL`**
 
 ## 一句话解读

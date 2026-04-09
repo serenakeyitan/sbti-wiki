@@ -2,6 +2,10 @@
 
 > *哈哈哈哈哈哈。*
 
+<p align="center">
+  <img src="../images/HHHH.png" alt="HHHH · 傻乐者" width="360">
+</p>
+
 **类别：特殊人格**
 
 > **触发条件**：`bestNormal.similarity < 60%`

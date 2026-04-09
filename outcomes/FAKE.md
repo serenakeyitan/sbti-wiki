@@ -2,6 +2,10 @@
 
 > *已经，没有人类了。*
 
+<p align="center">
+  <img src="../images/FAKE.png" alt="FAKE · 伪人" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`HLM-MML-MLM-MLM-HLH`**
 
 ## 一句话解读

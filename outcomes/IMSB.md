@@ -2,6 +2,10 @@
 
 > *认真的么？我真的是傻逼么？*
 
+<p align="center">
+  <img src="../images/IMSB.png" alt="IMSB · 傻者" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`LLM-LMM-LLL-LLL-MLM`**
 
 ## 一句话解读

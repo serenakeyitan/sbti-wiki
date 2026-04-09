@@ -2,6 +2,10 @@
 
 > *我感谢苍天！我感谢大地！*
 
+<p align="center">
+  <img src="../images/THAN-K.png" alt="THAN-K · 感恩者" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`MHM-HMM-HHM-MMH-MHL`**
 
 ## 一句话解读

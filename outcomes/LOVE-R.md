@@ -2,6 +2,10 @@
 
 > *爱意太满，现实显得有点贫瘠。*
 
+<p align="center">
+  <img src="../images/LOVE-R.png" alt="LOVE-R · 多情者" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`MLH-LHL-HLH-MLM-MLH`**
 
 ## 一句话解读

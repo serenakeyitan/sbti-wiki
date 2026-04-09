@@ -2,6 +2,10 @@
 
 > *原来我们都是小丑。*
 
+<p align="center">
+  <img src="../images/JOKE-R.jpg" alt="JOKE-R · 小丑" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`LLH-LHL-LML-LLL-MLM`**
 
 ## 一句话解读

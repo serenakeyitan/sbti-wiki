@@ -2,6 +2,10 @@
 
 > *您就是天生的尤物！*
 
+<p align="center">
+  <img src="../images/SEXY.png" alt="SEXY · 尤物" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`HMH-HHL-HMM-HMM-HLH`**
 
 ## 一句话解读

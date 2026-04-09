@@ -2,6 +2,10 @@
 
 > *没有那种世俗的欲望。*
 
+<p align="center">
+  <img src="../images/MONK.png" alt="MONK · 僧人" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`HHL-LLH-LLM-MML-LHM`**
 
 ## 一句话解读

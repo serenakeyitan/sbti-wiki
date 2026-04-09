@@ -2,6 +2,10 @@
 
 > *我真的...是废物吗？*
 
+<p align="center">
+  <img src="../images/IMFW.png" alt="IMFW · 废物" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`LLH-LHL-LML-LLL-MLL`**
 
 ## 一句话解读

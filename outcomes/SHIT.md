@@ -2,6 +2,10 @@
 
 > *这个世界，构石一坨。*
 
+<p align="center">
+  <img src="../images/SHIT.png" alt="SHIT · 愤世者" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`HHL-HLH-LMM-HHM-LHH`**
 
 ## 一句话解读

@@ -2,6 +2,10 @@
 
 > *我说随便，是真的随便。*
 
+<p align="center">
+  <img src="../images/OJBK.png" alt="OJBK · 无所谓人" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`MMH-MMM-HML-LMM-MML`**
 
 ## 一句话解读

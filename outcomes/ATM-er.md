@@ -2,6 +2,10 @@
 
 > *你以为我很有钱吗？*
 
+<p align="center">
+  <img src="../images/ATM-er.png" alt="ATM-er · 送钱者" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`HHH-HHM-HHH-HMH-MHL`**
 
 ## 一句话解读

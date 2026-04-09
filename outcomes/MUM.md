@@ -2,6 +2,10 @@
 
 > *或许...我可以叫你妈妈吗....?*
 
+<p align="center">
+  <img src="../images/MUM.png" alt="MUM · 妈妈" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`MMH-MHL-HMM-LMM-HLL`**
 
 ## 一句话解读

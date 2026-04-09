@@ -2,6 +2,10 @@
 
 > *gogogo~出发咯*
 
+<p align="center">
+  <img src="../images/GOGO.png" alt="GOGO · 行者" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`HHM-HMH-MMH-HHH-MHM`**
 
 ## 一句话解读

@@ -2,6 +2,10 @@
 
 > *我没死，我只是在睡觉。*
 
+<p align="center">
+  <img src="../images/ZZZZ.png" alt="ZZZZ · 装死者" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`MHL-MLH-LML-MML-LHM`**
 
 ## 一句话解读

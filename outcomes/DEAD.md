@@ -2,6 +2,10 @@
 
 > *我，还活着吗？*
 
+<p align="center">
+  <img src="../images/DEAD.png" alt="DEAD · 死者" width="360">
+</p>
+
 **类别：标准人格**　·　**十五维度模板：`LLL-LLM-LML-LLL-LHM`**
 
 ## 一句话解读
