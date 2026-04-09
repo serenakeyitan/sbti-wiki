@@ -1,0 +1,11 @@
+# Cloudflare Pages headers (equivalent to vercel.json headers section)
+
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/data/*
+  Cache-Control: public, max-age=3600, s-maxage=86400
+
+/*
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin

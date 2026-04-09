@@ -73,6 +73,23 @@
   </div>
 </header>
 
+<!-- Mirror switcher (only visible if on Vercel, recommends CF mirror) -->
+<div id="mirror-banner" class="hidden max-w-5xl mx-auto px-4 pt-4">
+  <div class="rounded-xl bg-amber-50 dark:bg-amber-950/40 border border-amber-200 dark:border-amber-900/50 p-3 flex items-start gap-3">
+    <span class="text-lg shrink-0">🇨🇳</span>
+    <div class="flex-1 text-sm">
+      <p class="font-medium text-amber-900 dark:text-amber-200">大陆用户打不开？试试镜像站</p>
+      <p class="text-xs text-amber-800 dark:text-amber-300/80 mt-0.5">Vercel 在国内常被降速，Cloudflare Pages 镜像通常更稳定。</p>
+      <a href="https://sbti-wiki.pages.dev" class="mt-1.5 inline-flex items-center gap-1 text-xs font-semibold text-amber-900 dark:text-amber-200 underline">
+        切换到 sbti-wiki.pages.dev →
+      </a>
+    </div>
+    <button id="mirror-dismiss" aria-label="关闭" class="shrink-0 text-amber-600 dark:text-amber-400 hover:text-amber-900 dark:hover:text-amber-200">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+    </button>
+  </div>
+</div>
+
 <!-- Hero -->
 <section class="max-w-5xl mx-auto px-4 pt-6 pb-4">
   <div class="text-center">
@@ -158,6 +175,18 @@
     const isDark = document.documentElement.classList.toggle('dark');
     localStorage.setItem('sbti-theme', isDark ? 'dark' : 'light');
     document.querySelector('meta[name="theme-color"]').content = isDark ? '#0a0a0a' : '#ffffff';
+  });
+
+  // ---------- Mirror banner (show on Vercel, hide on CF Pages) ----------
+  const mirrorBanner = document.getElementById('mirror-banner');
+  const mirrorDismissed = localStorage.getItem('sbti-mirror-dismissed') === '1';
+  const onVercel = /\.vercel\.app$/i.test(location.hostname);
+  if (onVercel && !mirrorDismissed) {
+    mirrorBanner.classList.remove('hidden');
+  }
+  document.getElementById('mirror-dismiss').addEventListener('click', () => {
+    mirrorBanner.classList.add('hidden');
+    localStorage.setItem('sbti-mirror-dismissed', '1');
   });
 
   // ---------- Rarity helpers ----------
