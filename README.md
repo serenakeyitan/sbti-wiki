@@ -94,10 +94,19 @@
 
 ## 关于这个仓库
 
-- **数据来源**：直接从测试站点 `main.js` 提取（见 `data/type_library.json`、`data/patterns.json`、`data/dimensions.json`），保证和线上版本完全一致。
+- **数据来源**：所有 27 个人格的中文名、开场台词、完整解读、十五维度 H/M/L 模板，都是通过 [**Bin Ran 的 sbti-cli**](https://github.com/bingran-you/sbti-cli) 加载 `main.js` 的 sandbox runtime 直接导出的，保证和线上版本**字节级一致**（包括引号风格、空格等所有细节）。
+- **基于 sbti-cli 构建**：这份 Wiki 实质上是 [bingran-you/sbti-cli](https://github.com/bingran-you/sbti-cli) 的一个衍生项目——CLI 负责把官网的 JS 运行时 sandbox 化并把 `TYPE_LIBRARY` / `NORMAL_TYPES` / `DIM_EXPLANATIONS` 等内部常量暴露出来，Wiki 负责把这些数据按人格整理成可读的 Markdown 图鉴。向 [Bin Ran](https://github.com/bingran-you) 致谢。
 - **原文展示**：每个人格页面里，**原站完整解读放在折叠块（`<details>`）里**，默认折叠，点击展开看原文，避免一上来就是一大坨文字。
 - **仅供娱乐**：作者本人已经在测试首页写得很清楚了——"别拿它当诊断、面试、相亲、分手、招魂、算命或人生判决书"。这个仓库也只是整理一份方便检索的图鉴，不提供任何心理学意义上的诊断价值。
 - **致敬原作者**：测试首发于 B 站 up 主 **蛆肉儿串儿**（UID 417038183），原本只是为了劝一位爱喝酒的朋友戒酒。这份 Wiki 只做整理和存档，请不要用于任何商业盈利用途。
+
+## 鸣谢
+
+| 项目 | 作者 | 贡献 |
+|---|---|---|
+| [**SBTI 人格测试**](https://sbti.fancc.de5.net) | B 站 [@蛆肉儿串儿](https://space.bilibili.com/417038183) | 原测试的作者，所有 27 个人格文案的版权持有者 |
+| [**sbti-cli**](https://github.com/bingran-you/sbti-cli) | [Bin Ran (@bingran-you)](https://github.com/bingran-you) | 把官网的 `main.js` sandbox 化，暴露出 `TYPE_LIBRARY` 等内部常量，让这份 Wiki 能直接从 runtime 抓取权威数据 |
+| **本 Wiki** | [@serenakeyitan](https://github.com/serenakeyitan) | 把 sbti-cli 导出的数据整理成 27 页中文 Markdown 图鉴 |
 
 ## License
 
