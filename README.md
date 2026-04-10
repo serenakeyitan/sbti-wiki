@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sbti-wiki.vercel.app"><strong>👉 手机浏览推荐使用网页版 👈</strong></a><br>
+  <a href="https://sbti-wiki.pages.dev"><strong>👉 手机浏览推荐使用网页版 👈</strong></a><br>
   <sub>支持深色模式、弹窗详情、一键分享、深链接</sub>
 </p>
 
