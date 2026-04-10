@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sbti-wiki.vercel.app">
+  <a href="https://sbti-wiki.pages.dev">
     <img alt="Vercel (海外)" src="https://img.shields.io/badge/🌍 Vercel-sbti--wiki.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   &nbsp;
